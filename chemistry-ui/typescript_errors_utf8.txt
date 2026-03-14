@@ -1,0 +1,17 @@
+﻿src/pages/MolSpace.tsx(5,5): error TS6133: 'Search' is declared but its value is never read.
+src/pages/MolSpace.tsx(6,5): error TS6133: 'Filter' is declared but its value is never read.
+src/pages/MolSpace.tsx(8,5): error TS6133: 'Info' is declared but its value is never read.
+src/pages/MolSpace.tsx(10,5): error TS6133: 'MousePointer2' is declared but its value is never read.
+src/pages/Nacho01Page.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/Nacho01Page.tsx(1,27): error TS6133: 'useEffect' is declared but its value is never read.
+src/pages/Nacho01Page.tsx(24,5): error TS6133: 'RadarChart' is declared but its value is never read.
+src/pages/Nacho01Page.tsx(25,5): error TS6133: 'PolarGrid' is declared but its value is never read.
+src/pages/Nacho01Page.tsx(26,5): error TS6133: 'PolarAngleAxis' is declared but its value is never read.
+src/pages/Nacho01Page.tsx(27,5): error TS6133: 'PolarRadiusAxis' is declared but its value is never read.
+src/pages/Nacho01Page.tsx(28,5): error TS6133: 'Radar' is declared but its value is never read.
+src/pages/PACE.tsx(1,27): error TS6133: 'useEffect' is declared but its value is never read.
+src/pages/PACE.tsx(11,5): error TS6133: 'ArrowRight' is declared but its value is never read.
+src/pages/PACE.tsx(15,5): error TS6133: 'X' is declared but its value is never read.
+src/pages/PACE.tsx(17,5): error TS6133: 'ChevronDown' is declared but its value is never read.
+src/pages/PACE.tsx(29,12): error TS6133: 'jobId' is declared but its value is never read.
+src/pages/PACE.tsx(337,46): error TS2304: Cannot find name 'Info'.

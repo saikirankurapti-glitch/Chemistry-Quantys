@@ -1,0 +1,37 @@
+# Python environments and compilation files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+chem_env/
+
+# Environment variables
+.env
+.env.*
+
+# Node / JS
+node_modules/
+chemistry-ui/node_modules/
+chemistry-ui/dist/
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+
+# AI models and large datasets
+*.pkl
+tmp_model_*.pkl
+tmp/
+*.h5
+*.pt
+datasets/
+
+# Logs
+*.log
+
+# Pytest
+.pytest_cache/

@@ -1,0 +1,13 @@
+{
+  "include": [
+    "chemistry_ai_platform"
+  ],
+  "executionEnvironments": [
+    {
+      "root": "chemistry_ai_platform",
+      "extraPaths": [
+        "."
+      ]
+    }
+  ]
+}
