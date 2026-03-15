@@ -2,7 +2,7 @@ rdkit-pypi
 fastapi
 uvicorn
 pandas
-numpy
+numpy<2
 matplotlib
 pillow
 pytest
