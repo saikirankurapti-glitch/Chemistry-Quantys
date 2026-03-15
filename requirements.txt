@@ -1,5 +1,9 @@
+rdkit-pypi
 fastapi
 uvicorn
-pydantic
-requests
-python-multipart
+pandas
+numpy
+matplotlib
+pillow
+pytest
+httpx
